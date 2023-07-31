@@ -1,0 +1,27 @@
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\GameFrameWork.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\GameFrameWork.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.csproj.AssemblyReference.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.csproj.CoreCompileInputs.cache
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.pdb
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\EZInput.dll
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\bin\Debug\EZInput.xml
+E:\spare\GameWithFrameWork\NewGAme\NewGAme\GameFrameWork\obj\Debug\GameFrameWork.csproj.CopyComplete
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\bin\Debug\GameFrameWork.dll
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\bin\Debug\GameFrameWork.pdb
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\bin\Debug\EZInput.dll
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\bin\Debug\EZInput.xml
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\obj\Debug\GameFrameWork.csproj.AssemblyReference.cache
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\obj\Debug\GameFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\obj\Debug\GameFrameWork.csproj.CopyComplete
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\obj\Debug\GameFrameWork.dll
+C:\Users\USER\Videos\The-Wild-of-Witcher-Game-.Net-framework--main\GameFrameWork\obj\Debug\GameFrameWork.pdb
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\bin\Debug\GameFrameWork.dll
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\bin\Debug\GameFrameWork.pdb
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\bin\Debug\EZInput.dll
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\bin\Debug\EZInput.xml
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\obj\Debug\GameFrameWork.csproj.AssemblyReference.cache
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\obj\Debug\GameFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\obj\Debug\GameFrameWork.csproj.CopyComplete
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\obj\Debug\GameFrameWork.dll
+C:\Users\USER\3D Objects\GusFring(2022-Cs-07)\GameFrameWork\obj\Debug\GameFrameWork.pdb
